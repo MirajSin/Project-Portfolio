@@ -1,4 +1,4 @@
-# Movie Sentiment Analysis
+# Iowa Packaged Liquor Market Analysis
 
 This project focuses on analyzing and extracting insights from the liquor sales data for Iowa State in the US, leveraging the visualizations created using PowerBI.
 
